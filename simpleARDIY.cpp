@@ -124,7 +124,7 @@ int main(int argc, char** argv)
 		exit(-1);
 	}
 	glmUnitize(gObj);
-	glmScale(gObj, markerSize);
+	glmScale(gObj, 1.5*markerSize);
 
 	//
 	// Library inits.
