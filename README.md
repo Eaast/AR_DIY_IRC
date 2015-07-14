@@ -1,0 +1,1 @@
+DIY Augmented Reality sample project for IRC Visual Computing Summer School 2015
